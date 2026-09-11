@@ -74,6 +74,7 @@ The Excel dashboard provides an interactive view of the sales data using:
 - Top 5 States analysis
 - Age & Gender analysis
 - Sales Channel analysis
+![Vrinda Store Sales Dashboard](vrinda-store-dashboard.png)
 
 ## 💡 Key Insights
 
